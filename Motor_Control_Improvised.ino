@@ -16,7 +16,7 @@ Servo servoMain;
 // Distance
 float distance;
 
-// Servo control
+// Servo controls
 unsigned long previousMillis = 0;
 unsigned long offTimerStart = 0;
 bool offTimerRunning = false;
